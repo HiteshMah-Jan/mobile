@@ -14,6 +14,10 @@ than screens with touch panels.
 */
 
 /*
+New comment by hitesh
+*/
+
+/*
 #cgo LDFLAGS: -lEGL -lGLESv2 -lX11
 
 void createWindow(void);
