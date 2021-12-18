@@ -14,8 +14,7 @@ than screens with touch panels.
 */
 
 /*
-New comment by hitesh
-New Comment
+New comment by anonymous
 */
 
 /*
